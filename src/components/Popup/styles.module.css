@@ -1,0 +1,12 @@
+.popupContent {
+  flex: 1 0 auto;
+}
+
+.popupRoot {
+  position: relative;
+}
+
+.popup {
+  position: absolute;
+  display: flex;
+}

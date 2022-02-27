@@ -1,0 +1,137 @@
+{
+  "layout": {
+    "mrc_title": "«Новости» — расписание на ТВ",
+    "utm_campaign": "tv_event",
+    "og": {
+      "type": "website",
+      "image": {
+        "width": 1200,
+        "src": "https://pic.kino.mail.ru/share/tv_event/174285549/?20211129223410.1",
+        "height": 630
+      }
+    },
+    "mrc_descr": "Программа о важнейших событиях в мире спорта. Оперативно и достоверно мы рассказываем о том, что произошло в спортивной жизни, знакомим со свежей информацией, поступившей от наших корреспондентов и по каналам информагентств"
+  },
+  "foreign_region": null,
+  "status": "OK",
+  "tv_event": {
+    "country": [{ "title": "Россия" }],
+    "age_restrict": 4,
+    "region_slug": "severodvinsk",
+    "name": "Новости",
+    "channel": {
+      "has_live": 1,
+      "name": "МАТЧ!",
+      "player": null,
+      "url_online": "/online/matchtv/",
+      "pic_big": {
+        "source": { "href": "", "name": "", "url": "", "title": "", "id": 1 },
+        "width": 128,
+        "height": 128,
+        "uuid": "c8bd980d-ddf6-524f-b05a-c1cf1c8e9362",
+        "key": "AAACvwhvIgPS6E0Cwc1tuma9Gtozj9Ir88QtASa-WtFSklTuRzNc8jyro4JzBcEFpqHRIdUVfwPdmgmazkswfsiU9yA",
+        "params": { "scale": 1, "dpr": [200] },
+        "url": "https://resizer.mail.ru/p/c8bd980d-ddf6-524f-b05a-c1cf1c8e9362/AAACvwhvIgPS6E0Cwc1tuma9Gtozj9Ir88QtASa-WtFSklTuRzNc8jyro4JzBcEFpqHRIdUVfwPdmgmazkswfsiU9yA.png",
+        "baseURL": "https://resizer.mail.ru/p/",
+        "title": "",
+        "fmt": ["png"]
+      },
+      "pic_small": {
+        "source": { "href": "", "name": "", "url": "", "title": "", "id": 1 },
+        "width": 32,
+        "height": 32,
+        "uuid": "c8bd980d-ddf6-524f-b05a-c1cf1c8e9362",
+        "key": "AAAC9byZABjjXBszMpGrEqrP_5EDx0bR0OMoBrvap28J3XQgI1BKEvWFBXcoEELhYtqSjmiKop3QEYpIr6aOzrU2rcI",
+        "params": { "scale": 1, "dpr": [200] },
+        "url": "https://resizer.mail.ru/p/c8bd980d-ddf6-524f-b05a-c1cf1c8e9362/AAAC9byZABjjXBszMpGrEqrP_5EDx0bR0OMoBrvap28J3XQgI1BKEvWFBXcoEELhYtqSjmiKop3QEYpIr6aOzrU2rcI.png",
+        "baseURL": "https://resizer.mail.ru/p/",
+        "title": "",
+        "fmt": ["png"]
+      },
+      "is_promo": 0,
+      "pic_url": "https://resizer.mail.ru/p/c8bd980d-ddf6-524f-b05a-c1cf1c8e9362/AAAC9byZABjjXBszMpGrEqrP_5EDx0bR0OMoBrvap28J3XQgI1BKEvWFBXcoEELhYtqSjmiKop3QEYpIr6aOzrU2rcI.png",
+      "live": {
+        "show_region_warning": 1,
+        "src": "https://ok.ru/videoembed/922259365535?autoplay=1",
+        "type": "iframe",
+        "attr": { "allowfullscreen": 1, "frameborder": 0, "allow": "autoplay" }
+      },
+      "pic_url_128": "https://resizer.mail.ru/p/c8bd980d-ddf6-524f-b05a-c1cf1c8e9362/AAACvwhvIgPS6E0Cwc1tuma9Gtozj9Ir88QtASa-WtFSklTuRzNc8jyro4JzBcEFpqHRIdUVfwPdmgmazkswfsiU9yA.png",
+      "url": "/severodvinsk/channel/2060/",
+      "slug": "matchtv",
+      "id": 2060,
+      "pic_url_64": "https://resizer.mail.ru/p/c8bd980d-ddf6-524f-b05a-c1cf1c8e9362/dpr:200/AAAC9byZABjjXBszMpGrEqrP_5EDx0bR0OMoBrvap28J3XQgI1BKEvWFBXcoEELhYtqSjmiKop3QEYpIr6aOzrU2rcI.png"
+    },
+    "genre": [
+      { "url": "https://kino.mail.ru/cinema/all/sport/", "title": "спорт" },
+      { "title": "Новости" }
+    ],
+    "near": [
+      {
+        "id": 174285430,
+        "start": {
+          "wdayname_short": "вт",
+          "mon_sh": "дек",
+          "tm": "18:25",
+          "mday": 7
+        }
+      },
+      {
+        "id": 174285546,
+        "start": {
+          "wdayname_short": "вт",
+          "mon_sh": "дек",
+          "tm": "03:55",
+          "mday": 7
+        }
+      }
+    ],
+    "api": { "rate_add": { "url": "https://kino.mail.ru/ext/adm/add/" } },
+    "descr": "Программа о важнейших событиях в мире спорта. Оперативно и достоверно мы рассказываем о том, что произошло в спортивной жизни, знакомим со свежей информацией, поступившей от наших корреспондентов и по каналам информагентств",
+    "sm_image_url": "https://tv.mail.ru/tvpic/1/24/5724568.jpg",
+    "tv_gallery": {
+      "items": [
+        {
+          "original": { "src": "https://tv.mail.ru/tvpic/1/24/5724568.jpg" },
+          "preview": { "src": "https://tv.mail.ru/tvpic/2/86/8434041.jpg" }
+        }
+      ]
+    },
+    "past": [
+      {
+        "id": 174285477,
+        "start": {
+          "wdayname_short": "вт",
+          "mon_sh": "дек",
+          "passed": 1,
+          "tm": "09:05",
+          "mday": 7
+        }
+      }
+    ],
+    "url": "/severodvinsk/channel/2060/174285549/",
+    "id": "174285549",
+    "start": {
+      "wdayname_short": "вт",
+      "mon_sh": "дек",
+      "tm": "15:40",
+      "mday": 7
+    }
+  },
+  "urls": {
+    "channel_index": "/severodvinsk/channel/",
+    "tvshow_online": "https://kino.mail.ru/tvshow/online/",
+    "cinema_online": "https://kino.mail.ru/cinema/online/",
+    "user_recommended": "https://kino.mail.ru/user/recommended/",
+    "main_page": "/moskva/",
+    "api": {
+      "ajax_recsys_selections_cinema": "/ajax/recsys/blocks/?name=selections_cinema",
+      "ajax_tv_channel_list": "/ajax/channel/list/",
+      "ajax_tvshow_online": "/ajax/tvshow/online/",
+      "ajax_recsys_selections_series": "/ajax/recsys/blocks/?name=selections_series",
+      "ajax_recsys_online_series": "/ajax/recsys/blocks/?name=online_series",
+      "ajax_recsys_online_cinema": "/ajax/recsys/blocks/?name=online_cinema"
+    },
+    "series_online": "https://kino.mail.ru/series/online/"
+  }
+}

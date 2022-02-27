@@ -1,0 +1,47 @@
+.wrap {
+  position: relative;
+}
+
+.inputWrap {
+  position: relative;
+}
+
+.spinnerWrap {
+  position: absolute;
+  top: 50%;
+  right: 0.2em;
+  transform: translate(0, -50%);
+}
+
+.spinner {
+  width: 1em;
+  height: 1em;
+  border-width: 0.2em;
+  border-top-color: cornflowerblue;
+}
+
+.results {
+  border: 1px solid;
+  max-height: 90vh;
+  overflow: auto;
+  z-index: 100;
+  position: relative;
+}
+
+.item {
+  cursor: pointer;
+  padding: 1em;
+  background: lightblue;
+}
+
+.item:hover {
+  background: lightgreen;
+}
+
+.item:active {
+  background: lightcoral;
+}
+
+.item + .item {
+  border-top: 1px solid navy;
+}

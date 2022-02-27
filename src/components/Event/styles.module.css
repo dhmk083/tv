@@ -1,0 +1,22 @@
+.wrap {
+  padding-top: 0.3em;
+}
+
+.ended {
+  background: ghostwhite;
+  color: gray;
+}
+
+.ongoing {
+  background: aliceblue;
+  color: blue;
+}
+
+.time {
+  font-weight: 500;
+}
+
+.progress {
+  height: 5px;
+  background: cornflowerblue;
+}

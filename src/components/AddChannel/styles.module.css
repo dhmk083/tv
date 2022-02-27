@@ -1,0 +1,12 @@
+.wrap {
+  position: relative;
+}
+
+.popupWrap {
+  background: tan;
+  border: 1px solid;
+}
+
+.title {
+  padding: 0.5em;
+}

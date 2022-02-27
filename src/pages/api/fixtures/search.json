@@ -1,0 +1,78 @@
+{
+  "searchText": "матч",
+  "items": [
+    {
+      "title": "Каналы",
+      "items": [
+        {
+          "text": "МАТЧ!",
+          "url": "/severodvinsk/channel/2060/",
+          "id": 2060,
+          "alias": "channel",
+          "pic": "https://resizer.mail.ru/p/c8bd980d-ddf6-524f-b05a-c1cf1c8e9362/AAAC9byZABjjXBszMpGrEqrP_5EDx0bR0OMoBrvap28J3XQgI1BKEvWFBXcoEELhYtqSjmiKop3QEYpIr6aOzrU2rcI.png"
+        },
+        {
+          "text": "МАТЧ! Премьер",
+          "url": "/severodvinsk/channel/2384/",
+          "id": 2384,
+          "alias": "channel",
+          "pic": "https://resizer.mail.ru/p/0ab78b28-a6c9-57d0-b916-a2ed5087938f/AQACAcvypmHDP4anwaPt5hKHKAXtFVMTZgmmZDDZ0lDi5_5hFpT9A4lOsHpyguSfFokhyzwLH7xeQTkns_00ekf6qvs.png"
+        },
+        {
+          "text": "МАТЧ! Страна",
+          "url": "/severodvinsk/channel/2470/",
+          "id": 2470,
+          "alias": "channel",
+          "pic": "https://resizer.mail.ru/p/cafcb831-9d25-5781-82ca-3f4308a8e03f/AQACRoQLSzsJzYY_5iuxWQfprPyIy11vPJt-GtzLPAhK3mjuos9GJ9zcop3mqbVNZpJvRNJJXHDwiufv1JMedEbHs8Y.png"
+        }
+      ]
+    },
+    {
+      "title": "Передачи",
+      "items": [
+        {
+          "event_id": 174285467,
+          "text": ["МатчБол"],
+          "url": "/severodvinsk/channel/2060/174285467/?from=suggest",
+          "id": "174285467",
+          "ext_group_id": 1904560,
+          "alias": "tv_event"
+        },
+        {
+          "event_id": 173819704,
+          "text": ["Матч-реванш"],
+          "url": "/severodvinsk/channel/2060/173819704/?from=suggest",
+          "id": "173819704",
+          "ext_group_id": 492891,
+          "alias": "tv_event"
+        },
+        {
+          "event_id": 174662850,
+          "text": ["Легендарные матчи"],
+          "url": "/severodvinsk/channel/986/174662850/?from=suggest",
+          "id": "174662850",
+          "ext_group_id": 1929398,
+          "alias": "tv_event"
+        },
+        {
+          "event_id": 173362026,
+          "text": ["Все на Матч! Прямая трансляция"],
+          "url": "/severodvinsk/channel/2060/173362026/?from=suggest",
+          "id": "173362026",
+          "ext_group_id": 1212114,
+          "alias": "tv_event"
+        },
+        {
+          "event_id": 173361993,
+          "text": [
+            "Футбол. Чемпионат мира-2022. Отборочный турнир. Жеребьевка стыковых матчей. Трансляция из Швейцарии. Прямая трансляция"
+          ],
+          "url": "/severodvinsk/channel/2060/173361993/?from=suggest",
+          "id": "173361993",
+          "ext_group_id": 2271554,
+          "alias": "tv_event"
+        }
+      ]
+    }
+  ]
+}

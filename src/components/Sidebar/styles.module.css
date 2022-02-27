@@ -1,0 +1,40 @@
+.wrap {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  transform: translate(100%);
+  transition: transform 500ms;
+  background: antiquewhite;
+  border-left: 2px solid darkgray;
+}
+
+.active {
+  transform: none;
+}
+
+.toggleButton {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(-100%, -50%);
+  font-size: 2em;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.title {
+  width: 20em;
+  text-align: center;
+  padding: 0 3em;
+}
+
+.channels {
+  padding: 1em;
+  overflow-y: auto;
+  height: 100%;
+}

@@ -1,0 +1,24 @@
+.wrap {
+  overflow: auto;
+  display: flex;
+}
+
+.wrap > * + * {
+  margin-left: 1em;
+}
+
+.date {
+  padding: 0.2em;
+}
+
+.now {
+  border: 3px solid gray;
+}
+
+.isWeekend {
+  color: tomato;
+}
+
+.isSelected {
+  border: 3px solid cornflowerblue;
+}
