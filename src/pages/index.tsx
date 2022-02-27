@@ -5,6 +5,7 @@ import EventDetails from "components/EventDetails";
 import { Centered, Spinner, Stack } from "components/Misc";
 import Sidebar from "components/Sidebar";
 import SearchBox from "components/SearchBox";
+import RegionSelector from "components/RegionSelector";
 import { Props } from "utils/types";
 import { selectChannelsHelper, formatDate } from "utils";
 import { useDocument, useInterval } from "hooks";
@@ -42,6 +43,7 @@ export default function Schedule() {
       <Stack className={styles.header}>
         <Time />
         <SearchBox onSelect={addChannelOrSearch} type={SearchType.All} />
+        <RegionSelector />
       </Stack>
 
       <Nav />

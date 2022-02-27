@@ -16,12 +16,16 @@ export enum SearchType {
   All = "Все",
 }
 
-export type ScheduleStore = {
-  isLoading: boolean;
+export type ScheduleData = {
   channels: Channel[];
   date: Date;
+  region?: Id;
+};
 
-  selectChannels(ids: Id[], date?: Date, force?: boolean);
+export type ScheduleStore = ScheduleData & {
+  isLoading: boolean;
+
+  selectChannels(ids: Id[], date?: Date, region?: Id);
 };
 
 export type DetailsStore = {

@@ -1,0 +1,28 @@
+.wrap {
+  display: flex;
+}
+
+.regions {
+  max-height: 80vh;
+  overflow: auto;
+  z-index: 100;
+  position: relative;
+}
+
+.item {
+  cursor: pointer;
+  padding: 1em;
+  background: lightblue;
+}
+
+.item:hover {
+  background: lightgreen;
+}
+
+.item:active {
+  background: lightcoral;
+}
+
+.item + .item {
+  border-top: 1px solid navy;
+}

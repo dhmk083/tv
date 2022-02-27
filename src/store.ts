@@ -6,29 +6,36 @@ import { isSameDay } from "date-fns";
 import { byId, makeCancellable } from "@dhmk/utils";
 import * as api from "api";
 
-import { DetailsStore, ScheduleStore, Store, Channel } from "types";
+import { DetailsStore, ScheduleStore, Store, ScheduleData } from "types";
 
-const initialState = {
-  channels: [] as Channel[],
+const initialState: ScheduleData = {
+  channels: [],
   date: new Date(),
+  region: undefined,
 };
 
-const createSchedule = ({ channels, date } = initialState) =>
+const createSchedule = ({ channels, date, region } = initialState) =>
   lens<ScheduleStore>((set, get) => ({
     isLoading: false,
     channels,
     date,
+    region,
 
     selectChannels: makeCancellable<ScheduleStore["selectChannels"]>(
-      (checkCancel) => async (ids, date, force) => {
-        const currentDate = get().date;
-        if (date && !isSameDay(date, currentDate)) force = true;
+      (checkCancel) => async (ids, date, region) => {
+        const currentData = get();
+        const nextData = {
+          date: date || currentData.date,
+          region: region || currentData.region,
+        };
+        const force =
+          !isSameDay(nextData.date, currentData.date) ||
+          nextData.region !== currentData.region;
 
         const getId = (x) => x.channel.id;
 
         const cache = byId(get().channels, getId);
         const idsToFetch = force ? ids : ids.filter((id) => !cache[id]);
-        const dateToFetch = date || currentDate;
 
         const buildChannels = () => ids.map((id) => cache[id]);
 
@@ -39,7 +46,7 @@ const createSchedule = ({ channels, date } = initialState) =>
             set({ isLoading: true });
 
             let channels = await api
-              .fetchChannels(idsToFetch, dateToFetch)
+              .fetchChannels(idsToFetch, nextData.date, nextData.region)
               .then(checkCancel);
 
             if (ids.length) {
@@ -47,7 +54,7 @@ const createSchedule = ({ channels, date } = initialState) =>
               channels = buildChannels();
             }
 
-            set({ channels, date: dateToFetch });
+            set({ channels, ...nextData });
           } finally {
             set({ isLoading: false });
           }
@@ -98,7 +105,7 @@ export const useStore = create<
 );
 
 useStore.subscribe(
-  ({ schedule: { channels, date } }) => ({ channels, date }),
+  ({ schedule: { channels, date, region } }) => ({ channels, date, region }),
   (ch) => {
     localStorage.setItem("schedule", JSON.stringify(ch));
   },

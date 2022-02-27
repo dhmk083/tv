@@ -1,0 +1,1216 @@
+{
+  "current": [],
+  "russia": [
+    "2900",
+    "5581",
+    "3489",
+    "2622",
+    "3737",
+    "4790",
+    "671",
+    "2814",
+    "700",
+    "3606",
+    "2691",
+    "1014",
+    "3346",
+    "3738",
+    "672",
+    "2191",
+    "740",
+    "3347",
+    "859",
+    "3686",
+    "2495",
+    "3569",
+    "3739",
+    "3859",
+    "2507",
+    "3348",
+    "3349",
+    "4764",
+    "3607",
+    "2387",
+    "2692",
+    "551",
+    "585",
+    "2784",
+    "1041",
+    "2936",
+    "3900",
+    "556",
+    "909",
+    "3740",
+    "825",
+    "1024",
+    "2388",
+    "2697",
+    "2577",
+    "2990",
+    "3921",
+    "3116",
+    "3350",
+    "948",
+    "3308",
+    "2785",
+    "3291",
+    "2937",
+    "2185",
+    "3531",
+    "439",
+    "2423",
+    "807",
+    "3008",
+    "976",
+    "5507",
+    "673",
+    "626",
+    "935",
+    "3405",
+    "2781",
+    "1025",
+    "3168",
+    "3468",
+    "3089",
+    "3354",
+    "788",
+    "606",
+    "674",
+    "3218",
+    "3431",
+    "991",
+    "3206",
+    "2792",
+    "3967",
+    "552",
+    "808",
+    "2471",
+    "3989",
+    "675",
+    "2623",
+    "4457",
+    "2624",
+    "544",
+    "2593",
+    "3355",
+    "545",
+    "3490",
+    "3217",
+    "3216",
+    "5509",
+    "949",
+    "2694",
+    "3013"
+  ],
+  "other": [],
+  "regions": {
+    "1": {
+      "id": "1",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Чукотский автономный округ",
+      "timezone": "Asia/Anadyr"
+    },
+    "2": {
+      "id": "2",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Еврейская автономная область",
+      "timezone": "Asia/Vladivostok"
+    },
+    "3": {
+      "id": "3",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Архангельская область",
+      "timezone": "Europe/Moscow"
+    },
+    "4": {
+      "id": "4",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Карачаево-Черкесская Республика",
+      "timezone": "Europe/Moscow"
+    },
+    "7": {
+      "id": "7",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Алтайский край",
+      "timezone": "Asia/Barnaul"
+    },
+    "8": {
+      "id": "8",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Белгородская область",
+      "timezone": "Europe/Moscow"
+    },
+    "9": {
+      "id": "9",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Чеченская Республика",
+      "timezone": "Europe/Moscow"
+    },
+    "10": {
+      "id": "10",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Амурская область",
+      "timezone": "Asia/Yakutsk"
+    },
+    "12": {
+      "id": "12",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Республика Тыва",
+      "timezone": "Asia/Krasnoyarsk"
+    },
+    "15": {
+      "id": "15",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Ненецкий автономный округ",
+      "timezone": "Europe/Moscow"
+    },
+    "18": {
+      "id": "18",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Приморский край",
+      "timezone": "Asia/Vladivostok"
+    },
+    "19": {
+      "id": "19",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Республика Северная Осетия-Алания",
+      "timezone": "Europe/Moscow"
+    },
+    "20": {
+      "id": "20",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Владимирская область",
+      "timezone": "Europe/Moscow"
+    },
+    "21": {
+      "id": "21",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Волгоградская область",
+      "timezone": "Europe/Volgograd"
+    },
+    "22": {
+      "id": "22",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Кировская область",
+      "timezone": "Europe/Kirov"
+    },
+    "24": {
+      "id": "24",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Воронежская область",
+      "timezone": "Europe/Moscow"
+    },
+    "32": {
+      "id": "32",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Свердловская область",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "39": {
+      "id": "39",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Удмуртская Республика",
+      "timezone": "Europe/Samara"
+    },
+    "40": {
+      "id": "40",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Иркутская область",
+      "timezone": "Asia/Irkutsk"
+    },
+    "42": {
+      "id": "42",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Республика Татарстан",
+      "timezone": "Europe/Moscow"
+    },
+    "46": {
+      "id": "46",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Кемеровская область",
+      "timezone": "Asia/Novokuznetsk"
+    },
+    "52": {
+      "id": "52",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Костромская область",
+      "timezone": "Europe/Moscow"
+    },
+    "53": {
+      "id": "53",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Краснодарский край",
+      "timezone": "Europe/Moscow"
+    },
+    "54": {
+      "id": "54",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Красноярский край",
+      "timezone": "Asia/Krasnoyarsk"
+    },
+    "56": {
+      "id": "56",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Курганская область",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "64": {
+      "id": "64",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Республика Адыгея",
+      "timezone": "Europe/Moscow"
+    },
+    "66": {
+      "id": "66",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Республика Дагестан",
+      "timezone": "Europe/Moscow"
+    },
+    "70": {
+      "id": "70",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Московская область",
+      "timezone": "Europe/Moscow"
+    },
+    "71": {
+      "id": "71",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Мурманская область",
+      "timezone": "Europe/Moscow"
+    },
+    "75": {
+      "id": "75",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Кабардино-Балкарская Республика",
+      "timezone": "Europe/Moscow"
+    },
+    "79": {
+      "id": "79",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Нижегородская область",
+      "timezone": "Europe/Moscow"
+    },
+    "92": {
+      "id": "92",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Омская область",
+      "timezone": "Asia/Omsk"
+    },
+    "94": {
+      "id": "94",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Оренбургская область",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "97": {
+      "id": "97",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Пермский край",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "104": {
+      "id": "104",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Ростовская область",
+      "timezone": "Europe/Moscow"
+    },
+    "105": {
+      "id": "105",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Рязанская область",
+      "timezone": "Europe/Moscow"
+    },
+    "106": {
+      "id": "106",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Самарская область",
+      "timezone": "Europe/Samara"
+    },
+    "108": {
+      "id": "108",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Республика Мордовия",
+      "timezone": "Europe/Moscow"
+    },
+    "109": {
+      "id": "109",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Саратовская область",
+      "timezone": "Europe/Saratov"
+    },
+    "114": {
+      "id": "114",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Ставропольский край",
+      "timezone": "Europe/Moscow"
+    },
+    "117": {
+      "id": "117",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Республика Коми",
+      "timezone": "Europe/Moscow"
+    },
+    "123": {
+      "id": "123",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Тверская область",
+      "timezone": "Europe/Moscow"
+    },
+    "126": {
+      "id": "126",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Томская область",
+      "timezone": "Asia/Tomsk"
+    },
+    "127": {
+      "id": "127",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Тульская область",
+      "timezone": "Europe/Moscow"
+    },
+    "128": {
+      "id": "128",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Тюменская область",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "134": {
+      "id": "134",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Республика Башкортостан",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "135": {
+      "id": "135",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Хабаровский край",
+      "timezone": "Asia/Vladivostok"
+    },
+    "140": {
+      "id": "140",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Чувашская Республика",
+      "timezone": "Europe/Moscow"
+    },
+    "141": {
+      "id": "141",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Челябинская область",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "144": {
+      "id": "144",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Забайкальский край",
+      "timezone": "Asia/Chita"
+    },
+    "145": {
+      "id": "145",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Сахалинская область",
+      "timezone": "Asia/Sakhalin"
+    },
+    "146": {
+      "id": "146",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Республика Саха (Якутия)",
+      "timezone": "Asia/Yakutsk"
+    },
+    "148": {
+      "id": "148",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Республика Хакасия",
+      "timezone": "Asia/Krasnoyarsk"
+    },
+    "172": {
+      "id": "172",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Ямало-Ненецкий автономный округ",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "188": {
+      "id": "188",
+      "parentId": "0",
+      "cityName": "",
+      "regionName": "Россия",
+      "timezone": "Europe/Moscow"
+    },
+    "256": {
+      "id": "256",
+      "parentId": "468",
+      "cityName": "Симферополь",
+      "regionName": "",
+      "timezone": "Europe/Simferopol"
+    },
+    "282": {
+      "id": "282",
+      "parentId": "188",
+      "cityName": "",
+      "regionName": "Республика Алтай",
+      "timezone": "Asia/Barnaul"
+    },
+    "439": {
+      "id": "439",
+      "parentId": "42",
+      "cityName": "Альметьевск",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "468": {
+      "id": "468",
+      "parentId": "188",
+      "cityName": "Крым",
+      "regionName": "Республика Крым",
+      "timezone": "Europe/Simferopol"
+    },
+    "544": {
+      "id": "544",
+      "parentId": "18",
+      "cityName": "Арсеньев",
+      "regionName": "",
+      "timezone": "Asia/Vladivostok"
+    },
+    "545": {
+      "id": "545",
+      "parentId": "18",
+      "cityName": "Артем",
+      "regionName": "",
+      "timezone": "Asia/Vladivostok"
+    },
+    "551": {
+      "id": "551",
+      "parentId": "19",
+      "cityName": "Алагир",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "552": {
+      "id": "552",
+      "parentId": "19",
+      "cityName": "Ардон",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "556": {
+      "id": "556",
+      "parentId": "20",
+      "cityName": "Александров",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "585": {
+      "id": "585",
+      "parentId": "32",
+      "cityName": "Алапаевск",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "606": {
+      "id": "606",
+      "parentId": "70",
+      "cityName": "Апрелевка",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "626": {
+      "id": "626",
+      "parentId": "40",
+      "cityName": "Ангарск",
+      "regionName": "",
+      "timezone": "Asia/Irkutsk"
+    },
+    "671": {
+      "id": "671",
+      "parentId": "53",
+      "cityName": "Абинск",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "672": {
+      "id": "672",
+      "parentId": "53",
+      "cityName": "Адлер",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "673": {
+      "id": "673",
+      "parentId": "53",
+      "cityName": "Анапа",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "674": {
+      "id": "674",
+      "parentId": "53",
+      "cityName": "Апшеронск",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "675": {
+      "id": "675",
+      "parentId": "53",
+      "cityName": "Армавир",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "700": {
+      "id": "700",
+      "parentId": "54",
+      "cityName": "Агата",
+      "regionName": "",
+      "timezone": "Asia/Krasnoyarsk"
+    },
+    "740": {
+      "id": "740",
+      "parentId": "64",
+      "cityName": "Адыгейск",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "788": {
+      "id": "788",
+      "parentId": "71",
+      "cityName": "Апатиты",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "807": {
+      "id": "807",
+      "parentId": "15",
+      "cityName": "Амдерма",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "808": {
+      "id": "808",
+      "parentId": "79",
+      "cityName": "Арзамас",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "825": {
+      "id": "825",
+      "parentId": "97",
+      "cityName": "Александровск",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "859": {
+      "id": "859",
+      "parentId": "104",
+      "cityName": "Азов",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "909": {
+      "id": "909",
+      "parentId": "109",
+      "cityName": "Александров Гай",
+      "regionName": "",
+      "timezone": "Europe/Saratov"
+    },
+    "935": {
+      "id": "935",
+      "parentId": "123",
+      "cityName": "Андреаполь",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "948": {
+      "id": "948",
+      "parentId": "127",
+      "cityName": "Алексин",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "949": {
+      "id": "949",
+      "parentId": "127",
+      "cityName": "Архангельское",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "976": {
+      "id": "976",
+      "parentId": "135",
+      "cityName": "Амурск",
+      "regionName": "",
+      "timezone": "Asia/Vladivostok"
+    },
+    "991": {
+      "id": "991",
+      "parentId": "141",
+      "cityName": "Аргаяш",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "1014": {
+      "id": "1014",
+      "parentId": "144",
+      "cityName": "Агинское",
+      "regionName": "",
+      "timezone": "Asia/Chita"
+    },
+    "1024": {
+      "id": "1024",
+      "parentId": "145",
+      "cityName": "Александровск-Сахалинский",
+      "regionName": "",
+      "timezone": "Asia/Sakhalin"
+    },
+    "1025": {
+      "id": "1025",
+      "parentId": "145",
+      "cityName": "Анива",
+      "regionName": "",
+      "timezone": "Asia/Sakhalin"
+    },
+    "1041": {
+      "id": "1041",
+      "parentId": "146",
+      "cityName": "Алдан",
+      "regionName": "",
+      "timezone": "Asia/Yakutsk"
+    },
+    "2185": {
+      "id": "2185",
+      "parentId": "256",
+      "cityName": "Алушта",
+      "regionName": "",
+      "timezone": "Europe/Simferopol"
+    },
+    "2191": {
+      "id": "2191",
+      "parentId": "4",
+      "cityName": "Адыге-Хабль",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "2387": {
+      "id": "2387",
+      "parentId": "144",
+      "cityName": "Акша",
+      "regionName": "",
+      "timezone": "Asia/Chita"
+    },
+    "2388": {
+      "id": "2388",
+      "parentId": "144",
+      "cityName": "Александровский Завод",
+      "regionName": "",
+      "timezone": "Asia/Chita"
+    },
+    "2423": {
+      "id": "2423",
+      "parentId": "146",
+      "cityName": "Амга",
+      "regionName": "",
+      "timezone": "Asia/Yakutsk"
+    },
+    "2471": {
+      "id": "2471",
+      "parentId": "114",
+      "cityName": "Арзгир",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "2495": {
+      "id": "2495",
+      "parentId": "117",
+      "cityName": "Айкино",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "2507": {
+      "id": "2507",
+      "parentId": "172",
+      "cityName": "Аксарка",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "2577": {
+      "id": "2577",
+      "parentId": "126",
+      "cityName": "Александровское",
+      "regionName": "",
+      "timezone": "Asia/Tomsk"
+    },
+    "2593": {
+      "id": "2593",
+      "parentId": "127",
+      "cityName": "Арсеньево",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "2622": {
+      "id": "2622",
+      "parentId": "128",
+      "cityName": "Абатское",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "2623": {
+      "id": "2623",
+      "parentId": "128",
+      "cityName": "Армизонское",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "2624": {
+      "id": "2624",
+      "parentId": "128",
+      "cityName": "Аромашево",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "2691": {
+      "id": "2691",
+      "parentId": "134",
+      "cityName": "Агидель",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "2692": {
+      "id": "2692",
+      "parentId": "134",
+      "cityName": "Акъяр",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "2694": {
+      "id": "2694",
+      "parentId": "134",
+      "cityName": "Архангельское",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "2697": {
+      "id": "2697",
+      "parentId": "114",
+      "cityName": "Александровское",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "2781": {
+      "id": "2781",
+      "parentId": "75",
+      "cityName": "Анзорей",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "2784": {
+      "id": "2784",
+      "parentId": "140",
+      "cityName": "Алатырь",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "2785": {
+      "id": "2785",
+      "parentId": "140",
+      "cityName": "Аликово",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "2792": {
+      "id": "2792",
+      "parentId": "79",
+      "cityName": "Ардатов",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "2814": {
+      "id": "2814",
+      "parentId": "141",
+      "cityName": "Агаповка",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "2900": {
+      "id": "2900",
+      "parentId": "148",
+      "cityName": "Абаза",
+      "regionName": "",
+      "timezone": "Asia/Krasnoyarsk"
+    },
+    "2936": {
+      "id": "2936",
+      "parentId": "7",
+      "cityName": "Алейск",
+      "regionName": "",
+      "timezone": "Asia/Barnaul"
+    },
+    "2937": {
+      "id": "2937",
+      "parentId": "7",
+      "cityName": "Алтайское",
+      "regionName": "",
+      "timezone": "Asia/Barnaul"
+    },
+    "2990": {
+      "id": "2990",
+      "parentId": "8",
+      "cityName": "Алексеевка",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3008": {
+      "id": "3008",
+      "parentId": "2",
+      "cityName": "Амурзет",
+      "regionName": "",
+      "timezone": "Asia/Vladivostok"
+    },
+    "3013": {
+      "id": "3013",
+      "parentId": "10",
+      "cityName": "Архара",
+      "regionName": "",
+      "timezone": "Asia/Yakutsk"
+    },
+    "3089": {
+      "id": "3089",
+      "parentId": "18",
+      "cityName": "Анучино",
+      "regionName": "",
+      "timezone": "Asia/Vladivostok"
+    },
+    "3116": {
+      "id": "3116",
+      "parentId": "21",
+      "cityName": "Алексеевская",
+      "regionName": "",
+      "timezone": "Europe/Volgograd"
+    },
+    "3168": {
+      "id": "3168",
+      "parentId": "24",
+      "cityName": "Анна",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3206": {
+      "id": "3206",
+      "parentId": "9",
+      "cityName": "Аргун",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3216": {
+      "id": "3216",
+      "parentId": "32",
+      "cityName": "Арти",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "3217": {
+      "id": "3217",
+      "parentId": "32",
+      "cityName": "Артемовский",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "3218": {
+      "id": "3218",
+      "parentId": "32",
+      "cityName": "Арамиль",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "3291": {
+      "id": "3291",
+      "parentId": "39",
+      "cityName": "Алнаши",
+      "regionName": "",
+      "timezone": "Europe/Samara"
+    },
+    "3308": {
+      "id": "3308",
+      "parentId": "40",
+      "cityName": "Алзамай",
+      "regionName": "",
+      "timezone": "Asia/Irkutsk"
+    },
+    "3346": {
+      "id": "3346",
+      "parentId": "42",
+      "cityName": "Агрыз",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3347": {
+      "id": "3347",
+      "parentId": "42",
+      "cityName": "Азнакаево",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3348": {
+      "id": "3348",
+      "parentId": "42",
+      "cityName": "Аксубаево",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3349": {
+      "id": "3349",
+      "parentId": "42",
+      "cityName": "Актаныш",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3350": {
+      "id": "3350",
+      "parentId": "42",
+      "cityName": "Алексеевское",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3354": {
+      "id": "3354",
+      "parentId": "42",
+      "cityName": "Апастово",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3355": {
+      "id": "3355",
+      "parentId": "42",
+      "cityName": "Арск",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3405": {
+      "id": "3405",
+      "parentId": "46",
+      "cityName": "Анжеро-Судженск",
+      "regionName": "",
+      "timezone": "Asia/Novokuznetsk"
+    },
+    "3431": {
+      "id": "3431",
+      "parentId": "22",
+      "cityName": "Арбаж",
+      "regionName": "",
+      "timezone": "Europe/Kirov"
+    },
+    "3468": {
+      "id": "3468",
+      "parentId": "52",
+      "cityName": "Антропово",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3489": {
+      "id": "3489",
+      "parentId": "54",
+      "cityName": "Абан",
+      "regionName": "",
+      "timezone": "Asia/Krasnoyarsk"
+    },
+    "3490": {
+      "id": "3490",
+      "parentId": "54",
+      "cityName": "Артемовск",
+      "regionName": "",
+      "timezone": "Asia/Krasnoyarsk"
+    },
+    "3531": {
+      "id": "3531",
+      "parentId": "56",
+      "cityName": "Альменево",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "3569": {
+      "id": "3569",
+      "parentId": "12",
+      "cityName": "Ак-Довурак",
+      "regionName": "",
+      "timezone": "Asia/Krasnoyarsk"
+    },
+    "3606": {
+      "id": "3606",
+      "parentId": "66",
+      "cityName": "Агвали",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3607": {
+      "id": "3607",
+      "parentId": "66",
+      "cityName": "Акуша",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3686": {
+      "id": "3686",
+      "parentId": "92",
+      "cityName": "Азово",
+      "regionName": "",
+      "timezone": "Asia/Omsk"
+    },
+    "3737": {
+      "id": "3737",
+      "parentId": "94",
+      "cityName": "Абдулино",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "3738": {
+      "id": "3738",
+      "parentId": "94",
+      "cityName": "Адамовка",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "3739": {
+      "id": "3739",
+      "parentId": "94",
+      "cityName": "Акбулак",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "3740": {
+      "id": "3740",
+      "parentId": "94",
+      "cityName": "Александровка",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "3859": {
+      "id": "3859",
+      "parentId": "104",
+      "cityName": "Аксай",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3900": {
+      "id": "3900",
+      "parentId": "105",
+      "cityName": "Александро-Невский",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3921": {
+      "id": "3921",
+      "parentId": "106",
+      "cityName": "Алексеевка",
+      "regionName": "",
+      "timezone": "Europe/Samara"
+    },
+    "3967": {
+      "id": "3967",
+      "parentId": "108",
+      "cityName": "Ардатов",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "3989": {
+      "id": "3989",
+      "parentId": "109",
+      "cityName": "Аркадак",
+      "regionName": "",
+      "timezone": "Europe/Saratov"
+    },
+    "4457": {
+      "id": "4457",
+      "parentId": "256",
+      "cityName": "Армянск",
+      "regionName": "",
+      "timezone": "Europe/Simferopol"
+    },
+    "4764": {
+      "id": "4764",
+      "parentId": "282",
+      "cityName": "Акташ",
+      "regionName": "",
+      "timezone": "Asia/Barnaul"
+    },
+    "4790": {
+      "id": "4790",
+      "parentId": "134",
+      "cityName": "Абзаково",
+      "regionName": "",
+      "timezone": "Asia/Yekaterinburg"
+    },
+    "5507": {
+      "id": "5507",
+      "parentId": "1",
+      "cityName": "Анадырь",
+      "regionName": "",
+      "timezone": "Asia/Anadyr"
+    },
+    "5509": {
+      "id": "5509",
+      "parentId": "3",
+      "cityName": "Архангельск",
+      "regionName": "",
+      "timezone": "Europe/Moscow"
+    },
+    "5581": {
+      "id": "5581",
+      "parentId": "148",
+      "cityName": "Абакан",
+      "regionName": "",
+      "timezone": "Asia/Krasnoyarsk"
+    }
+  },
+  "regionsCount": "5448",
+  "groupRegionsCount": ["0", "2386", "3062"]
+}
