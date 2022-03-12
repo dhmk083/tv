@@ -10,18 +10,18 @@ export default async function handler(req, res: NextApiResponse) {
 
   if (req.query.channelId) {
     data = await jfetch(
-      `https://tv.mail.ru/ajax/index/?period=all&in=${req.query.channelId}&region=${region}`
+      `https://tv.mail.ru/ajax/index/?period=all&in=${req.query.channelId}&region_id=${region}`
     );
   } else if (req.query.eventId) {
     data = await jfetch(
-      `https://tv.mail.ru/ajax/event/?id=${req.query.eventId}&region=${region}`
+      `https://tv.mail.ru/ajax/event/?id=${req.query.eventId}&region_id=${region}`
     );
   } else if (req.query.q) {
     const search = new URLSearchParams();
     search.set("q", req.query.q);
 
     data = await jfetch(
-      `https://tv.mail.ru/ajax/suggest_tv?${search}&region=${region}`
+      `https://tv.mail.ru/ajax/suggest_tv?${search}&region_id=${region}`
     );
   } else {
     const { date, ids } = req.query;
@@ -46,7 +46,7 @@ export default async function handler(req, res: NextApiResponse) {
 // no more than 24 ids :/
 function search24(date, ids, region) {
   const search = new URLSearchParams("channel_type=all&period=all");
-  search.set("region", region);
+  search.set("region_id", region);
 
   if (date) search.set("date", date);
   if (ids) search.set("in", ids);
