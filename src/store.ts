@@ -18,7 +18,7 @@ const createSchedule = ({ channels, date, region } = initialState) =>
   lens<ScheduleStore>((set, get) => ({
     isLoading: false,
     channels,
-    date,
+    date: new Date(date),
     region,
 
     selectChannels: makeCancellable<ScheduleStore["selectChannels"]>(
